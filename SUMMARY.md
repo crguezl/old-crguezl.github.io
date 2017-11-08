@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Miscelánea](miscelanea.md)
-* [Apuntes varios](apuntes.md)
 
 ## ASIGNATURAS
 
@@ -18,3 +16,10 @@
 * [UAI](uai.md)
   - [UAI 2015](uai2015/README.md)
 * [IHIUDI](ihiudi.md)
+
+## DESORDENADOS
+
+* [Turing](http://www.sinewton.org/numeros/numeros/43-44/Articulo46.pdf)
+* [Miscelánea](miscelanea.md)
+* [Apuntes varios](apuntes.md)
+
