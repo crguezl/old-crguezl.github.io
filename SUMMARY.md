@@ -16,6 +16,10 @@
 * [UAI](uai.md)
   - [UAI 2015](uai2015/README.md)
 * [IHIUDI](ihiudi.md)
+* [ELABORACIÓN DE MATERIAL DOCENTE CON GITBOOK](https://www.gitbook.com/book/casianorodriguezleon/elaboracion-de-material-docente-con-gitbook/details) (gitbook)
+  - [Campus Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
+* [Integración de las herramientas "Github Education" en el aula](https://casianorodriguezleon.gitbooks.io/curso-github/content/)
+
 
 ## PERFILES
 
