@@ -7,7 +7,9 @@
 * [GitHub](https://github.com/casiano) casiano
 * [GitBook](https://www.gitbook.com/@casianorodriguezleon)
 * [CPAN](http://search.cpan.org/~casiano/)
+* [PerlMonks](http://www.perlmonks.org/?node_id=626604)
 * [Documat](https://documat.unirioja.es/servlet/autor?codigo=569950)
 * [DBLP](http://dblp.org/pers/hd/r/Rodr=iacute=guez:Casiano)
 * [NPM](https://www.npmjs.com/~casiano) (Casiano)
 * [NPM](https://www.npmjs.com/~crguezl) (crguezl)
+* [RubyGems](https://rubygems.org/profiles/casiano)
