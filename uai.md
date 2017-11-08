@@ -1,2 +1,2 @@
-[UAI 2015](uai2015/index.md)
+[UAI 2015](uai2015/README.md)
 
