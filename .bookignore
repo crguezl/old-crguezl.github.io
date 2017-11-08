@@ -1,2 +1,5 @@
 .nojekyll
 *.bak
+.bookignore
+node_modules
+package*.json
