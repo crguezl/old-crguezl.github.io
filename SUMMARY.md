@@ -17,6 +17,10 @@
   - [UAI 2015](uai2015/README.md)
 * [IHIUDI](ihiudi.md)
 
+## PERFILES
+
+* [Perfiles](profile.md)
+
 ## DESORDENADOS
 
 * [Turing](http://www.sinewton.org/numeros/numeros/43-44/Articulo46.pdf)
