@@ -8,6 +8,7 @@
 
 * [CA](ca.md)
 * [LHP](lhp.md)
+* [LPP](lpp.md)
 * [PL](pl.md)
 * [PP2](pp2.md)
 * [SYTW](sytw.md)
