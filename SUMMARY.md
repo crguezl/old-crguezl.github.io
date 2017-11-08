@@ -12,3 +12,4 @@
 * [PP2](pp2.md)
 * [SYTW](sytw.md)
 * [UAI](uai.md)
+  - [UAI 2015](uai2015/README.md)
