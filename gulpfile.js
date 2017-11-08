@@ -24,7 +24,7 @@ gulp.task('ghrepo', shell.task( // Open a browser in the github book repo
 ));
 
 gulp.task('apuntes', shell.task( // Open web browser in the github deployment of this book
-  'open https://crguezl.github.io'
+  'open https://crguezl.github.io/_book'
 ));
 
 gulp.task("pre-install", shell.task([ // global dependencies
@@ -32,7 +32,7 @@ gulp.task("pre-install", shell.task([ // global dependencies
 			"brew install hub"
 ]));
 
-gulp.task("push", shell.task([ // push to github not to gitbook
+gulp.task("push", shell.task([ // add changes and push to github 
       'git add . && git ci -am "new version" && git push origin master',
 ]));
 
