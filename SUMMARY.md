@@ -12,5 +12,8 @@
 * [PL](pl.md)
 * [PP2](pp2.md)
 * [SYTW](sytw.md)
+
+## CURSOS/SEMINARIOS
+
 * [UAI](uai.md)
   - [UAI 2015](uai2015/README.md)
