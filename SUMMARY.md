@@ -37,6 +37,8 @@
 * [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
 * [RubyGems](https://rubygems.org/profiles/casiano)
 * [in](https://www.linkedin.com/in/casiano-rodriguez-leon-15301110/)
+* [ResearchGate](https://www.researchgate.net/profile/Casiano_Rodriguez-Leon)
+* [Google Scholar](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
 
 ## DESORDENADOS
 
