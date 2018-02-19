@@ -27,12 +27,12 @@
 * [DBLP](http://dblp.org/pers/hd/r/Rodr=iacute=guez:Casiano)
 * [Documat](https://documat.unirioja.es/servlet/autor?codigo=569950)
 * [GitBook](https://www.gitbook.com/@casianorodriguezleon)
-* [GitHub](https://github.com/casiano) casiano
-* [GitHub](https://github.com/crguezl) crguezl
+* [GitHub casiano](https://github.com/casiano) casiano
+* [GitHub crguezl](https://github.com/crguezl) crguezl
 * [Google Scholar](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
 * [in](https://www.linkedin.com/in/casiano-rodriguez-leon-15301110/)
-* [NPM](https://www.npmjs.com/~casiano) (Casiano)
-* [NPM](https://www.npmjs.com/~crguezl) (crguezl)
+* [NPM casiano](https://www.npmjs.com/~casiano) (Casiano)
+* [NPM crguezl](https://www.npmjs.com/~crguezl) (crguezl)
 * [OCW](http://ocw.universia.net/es/instituciones/33/universidad-de-la-laguna/autor/3897/casiano-rodriguez-leon/)
 * [PerlMonks](http://www.perlmonks.org/?node_id=626604)
 * [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
