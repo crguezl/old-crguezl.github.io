@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## ASIGNATURAS
+## SUBJECTS / ASIGNATURAS
 
 * [CA](ca.md)
 * [LHP](lhp.md)
@@ -11,7 +11,7 @@
 * [PP2](pp2.md)
 * [SYTW](sytw.md)
 
-## CURSOS/SEMINARIOS
+## COURSES/CURSOS/SEMINARIOS/SEMINARS
 
 * [UAI](uai.md)
   - [UAI 2015](uai2015/README.md)
@@ -21,26 +21,31 @@
 * [Integración de las herramientas "Github Education" en el aula](https://casianorodriguezleon.gitbooks.io/curso-github/content/)
 
 
-## PERFILES
+## PERFILES / PROFILES
 
-* [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
 * [CPAN](http://search.cpan.org/~casiano/)
 * [DBLP](http://dblp.org/pers/hd/r/Rodr=iacute=guez:Casiano)
 * [Documat](https://documat.unirioja.es/servlet/autor?codigo=569950)
 * [GitBook](https://www.gitbook.com/@casianorodriguezleon)
 * [GitHub](https://github.com/casiano) casiano
 * [GitHub](https://github.com/crguezl) crguezl
+* [Google Scholar](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
+* [in](https://www.linkedin.com/in/casiano-rodriguez-leon-15301110/)
 * [NPM](https://www.npmjs.com/~casiano) (Casiano)
 * [NPM](https://www.npmjs.com/~crguezl) (crguezl)
 * [OCW](http://ocw.universia.net/es/instituciones/33/universidad-de-la-laguna/autor/3897/casiano-rodriguez-leon/)
 * [PerlMonks](http://www.perlmonks.org/?node_id=626604)
 * [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
-* [RubyGems](https://rubygems.org/profiles/casiano)
-* [in](https://www.linkedin.com/in/casiano-rodriguez-leon-15301110/)
+* [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
 * [ResearchGate](https://www.researchgate.net/profile/Casiano_Rodriguez-Leon)
-* [Google Scholar](https://scholar.google.es/citations?user=wgSgtXYAAAAJ&hl=es)
+* [RubyGems](https://rubygems.org/profiles/casiano)
+* [YouTube](https://www.youtube.com/channel/UCBtBmp_GxuvbzQcrnQV7R9A?view_as=subscriber)
 
-## DESORDENADOS
+
+## LEARNING
+
+
+## DESORDEN
 
 * [Turing](http://www.sinewton.org/numeros/numeros/43-44/Articulo46.pdf)
 * [Miscelánea](miscelanea.md)
