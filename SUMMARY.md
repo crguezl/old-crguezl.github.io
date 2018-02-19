@@ -36,7 +36,6 @@
 * [OCW](http://ocw.universia.net/es/instituciones/33/universidad-de-la-laguna/autor/3897/casiano-rodriguez-leon/)
 * [PerlMonks](http://www.perlmonks.org/?node_id=626604)
 * [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
-* [Página en E-Guía ULL](https://e-guia.ull.es/etsii/queryprof.php?id=1041)
 * [ResearchGate](https://www.researchgate.net/profile/Casiano_Rodriguez-Leon)
 * [RubyGems](https://rubygems.org/profiles/casiano)
 * [YouTube](https://www.youtube.com/channel/UCBtBmp_GxuvbzQcrnQV7R9A?view_as=subscriber)
